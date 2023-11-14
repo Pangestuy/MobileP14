@@ -1,0 +1,94 @@
+{
+    "result": [
+        {
+            "no": "50",
+            "name": "Cahya Supriyadi",
+            "birth_date": "11 FEBRUARY 2003",
+            "Position": "Goalkeeper",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/grid-screenshot-2023-07-03-1043181688355907.png"
+        },
+        {
+            "no": "6",
+            "name": "Tony Sucipto",
+            "birth_date": "12 FEBRUARY 1986",
+            "Position": "Defender",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2252041688313135.png"
+        },
+        {
+            "no": "25",
+            "name": "Riko Simanjuntak",
+            "birth_date": "26 JANUARY 1992",
+            "Position": "Midfielder",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/grid-screenshot-2023-07-02-2249571688312998.png"
+        },
+        {
+            "no": "21",
+            "name": "Alfriyanto Nico Saputro",
+            "birth_date": "03 APRIL 2003",
+            "Position": "Midfielder",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2245011688312715.png"
+        },
+        {
+            "no": "41",
+            "name": "Muhammad Ferarri",
+            "birth_date": "21 JUNE 2003",
+            "Position": "Defender",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2241171688312485.png"
+        },
+        {
+            "no": "9",
+            "name": "Marko Simic",
+            "birth_date": "23 JANUARY 1988",
+            "Position": "STRIKER",
+            "International": "Kroasia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2237451688312343.png"
+        },
+        {
+            "no": "56",
+            "name": "Maman Abdurahman",
+            "birth_date": "12 MAY 1982",
+            "Position": "Defender",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2227371688311670.png"
+        },
+        {
+            "no": "77",
+            "name": "Dony Tri Pamungkas",
+            "birth_date": "11 JANUARY 2005",
+            "Position": "Midfielder",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2232511688311981.png"
+        },
+        {
+            "no": "2",
+            "name": "Ilham Rio Fahmi",
+            "birth_date": "06 OCTOBER 2001",
+            "Position": "Defender",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-02-2230391688311852.png"
+        },
+        {
+            "no": "26",
+            "name": "Andritany Ardhiyasa",
+            "birth_date": "26 DECEMBER 1991",
+            "Position": "Goal Keeper",
+            "International": "Indonesia",
+            "Team": "Persija",
+            "Poster": "https://cdn.persija.id/assets/uploads/media-uploader/large-screenshot-2023-07-03-1043391688355858.png"
+        },
+    ]
+}
